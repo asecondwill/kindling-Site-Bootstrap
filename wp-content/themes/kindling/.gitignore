@@ -1,0 +1,4 @@
+.htaccess
+*.log
+.DS_Store
+*.scssc
